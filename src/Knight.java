@@ -5,16 +5,16 @@ public class Knight {
 
 
     public void goAndSaveThePrincess() {
-        sharpenBlade();
+        //sharpenBlade();
         getFood();
         assembleTeam();
         Horse();
         System.out.println("Да иду уже...");
     }
 
-    private void sharpenBlade() {
-        System.out.println("Точим меч");
-    }
+    //private void sharpenBlade() {
+       // System.out.println("Точим меч");
+    //}
 
     private void getFood() {
         System.out.println("Собираем консервы");
